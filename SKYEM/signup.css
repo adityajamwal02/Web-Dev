@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    padding-top: 10px;
+    margin: 5px;
+    font-size: 80px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+p{
+    text-align: center;
+    font-family: arial;
+}
+#container{
+    background-color: pink;
+}
+.g-3{
+    margin-top: 100px;
+    margin-left: 250px;
+    text-align: justify;
+}
+.form-label{
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+.btn-primary{
+    margin-top: 20px;
+    color: white;
+    background-color:black;
+    font-weight: bold;
+}
+.btn-primary:hover{
+    background-color: grey;
+    opacity: 0.8;
+}
+footer{
+   margin-top: 90px;
+   margin-left: 20px;
+   font-size: 14px;
+}
+#pass{
+    margin-left: 555px;
+    font-size: 14px;
+  }
+#pass-1{
+      padding-left: 555px;
+      font-size: 14px;
+  }
+  

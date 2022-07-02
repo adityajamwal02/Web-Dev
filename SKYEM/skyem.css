@@ -1,0 +1,70 @@
+.navbar-brand{
+    padding-left: 10px;
+}
+.btn-lg-1{
+    padding: 15px;
+    background-color: black;
+}
+.btn-lg-2{
+    padding: 15px;
+    margin-left: 10px;
+    background-color: black;
+}
+.btn-lg-1:hover{
+    opacity: 0.7;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+.btn-lg-2:hover{
+    opacity: 0.7;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+.display-4{
+    font-family: 'Times New Roman', Times, serif;
+}
+.lead{
+    position: relative;
+    left: 100px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+.form-inline{
+    padding-right: 30px;
+    left: 10px;
+}
+
+#login{
+    font-size: 13px;
+}
+h2{
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-family: aldana;
+}
+.jumbotron{
+   background-image: url("SkyemImg/Sky.jpg");
+}
+.card-title{
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 27px;
+}
+.card-1{
+    background-image: url("SkyemImg/Sydney.jpg");
+}
+.card-2{
+    background-image: url("SkyemImg/Dubai.jpg");
+}
+.card-3{
+    background-image: url("SkyemImg/Tokyo.jpg");
+}
+.col-md-4{
+    color: whitesmoke;
+}
+

@@ -1,0 +1,13 @@
+.jumbotron{
+    margin-top: 70px;
+    background-color:rgb(41, 40, 40);
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+.display-4{
+    font-weight: bold;
+}
+.my-4{
+    background-color: whitesmoke;
+    padding-top: 4px;
+}
